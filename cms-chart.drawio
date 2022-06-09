@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T09:04:04.582Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="lV-ll_4uzI1TblA_ItU0" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T09:08:28.334Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Jr7SbW8KPmcxFUFwhkMD" version="18.2.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2010" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1183" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;b&gt;上传资源&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="220" y="1690" width="130" height="40" as="geometry" />
+          <mxGeometry x="300" y="1850" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="anklOojbZPtdQO9B7LjY-0" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;CMS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="505" y="30" width="70" height="20" as="geometry" />
@@ -14,39 +14,39 @@
           <mxGeometry x="30" y="130" width="450" height="230" as="geometry" />
         </mxCell>
         <mxCell id="anklOojbZPtdQO9B7LjY-10" value="images" style="swimlane;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-20" y="1790" width="190" height="70" as="geometry" />
+          <mxGeometry x="50" y="1930" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="anklOojbZPtdQO9B7LjY-11" value="图片资源表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="anklOojbZPtdQO9B7LjY-10">
           <mxGeometry x="45" y="40" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="anklOojbZPtdQO9B7LjY-12" value="status" style="swimlane;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="1790" width="190" height="70" as="geometry" />
+          <mxGeometry x="260" y="1930" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="anklOojbZPtdQO9B7LjY-13" value="图片状态表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="anklOojbZPtdQO9B7LjY-12">
           <mxGeometry x="45" y="40" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="anklOojbZPtdQO9B7LjY-14" value="img_attributes" style="swimlane;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="1790" width="190" height="70" as="geometry" />
+          <mxGeometry x="480" y="1930" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="anklOojbZPtdQO9B7LjY-15" value="图片类型表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="anklOojbZPtdQO9B7LjY-14">
           <mxGeometry x="45" y="40" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="anklOojbZPtdQO9B7LjY-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=15;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WIyWlLk6GJQsqaUBKTNV-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="1790" as="sourcePoint" />
-            <mxPoint x="120" y="1740" as="targetPoint" />
+            <mxPoint x="140" y="1930" as="sourcePoint" />
+            <mxPoint x="190" y="1880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="anklOojbZPtdQO9B7LjY-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=15;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="anklOojbZPtdQO9B7LjY-12" target="WIyWlLk6GJQsqaUBKTNV-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="1800" as="sourcePoint" />
-            <mxPoint x="285" y="1740" as="targetPoint" />
+            <mxPoint x="150" y="1940" as="sourcePoint" />
+            <mxPoint x="355" y="1880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="anklOojbZPtdQO9B7LjY-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=15;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="anklOojbZPtdQO9B7LjY-14" target="WIyWlLk6GJQsqaUBKTNV-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="1810" as="sourcePoint" />
-            <mxPoint x="295" y="1750" as="targetPoint" />
+            <mxPoint x="160" y="1950" as="sourcePoint" />
+            <mxPoint x="365" y="1890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="anklOojbZPtdQO9B7LjY-20" value="各模块主表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -172,8 +172,8 @@
             <mxPoint x="950" y="815" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="anklOojbZPtdQO9B7LjY-59" value="&lt;h1 style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;关键表备注&lt;/font&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;feature_plan_detail_list：features的辅助表&lt;br&gt;&lt;/span&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;game_configs: 用于描述APP使用场景、Merge的版本号&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;game_configs_imgs: Merge数据之后的总的临时表&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;groups: 用于描述用户角色的表&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;img_attributes&lt;/span&gt;&lt;span style=&quot;font-weight: 700; text-align: center;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;images的辅助表&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;img_categories: 用于描述图片的分类标签&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px; text-align: center;&quot;&gt;img_tags: 用于描述图片的分类标签&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;img_funnel_*: 都是用于数据统计的表&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;img_online_data: 记录线上发布图片的详情表&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;img_plans: 用于描述图片具体被用到了哪个项目环境下的哪个模块&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;img_scenes: 用于描述模块的具体内容&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;new_user_*: 用于描述新手图信息的表&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;online_configs: 记录所有项目的所有环境最新发布的版本&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;online_file_md5s： 用于描述所有项目的线上资源的相对路径等信息(增量)&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;pic_unlock: 用于图片评分的数据同步&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;plan_groups: 用于描述具体项目的场景&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;published_files: 用于描述所有项目的线上资源的相对路径等信息(全量)&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;state_events: 图片状态变更表&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="355" width="570" height="1145" as="geometry" />
+        <mxCell id="anklOojbZPtdQO9B7LjY-59" value="&lt;h1 style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;关键表备注&lt;/font&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;feature_plan_detail_list：features的辅助表&lt;br&gt;&lt;/span&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;game_configs: 用于描述APP使用场景、Merge的版本号&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;game_configs_imgs: Merge数据之后的总的临时表&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;groups: 用于描述用户角色的表&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;img_attributes&lt;/span&gt;&lt;span style=&quot;font-weight: 700; text-align: center;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;images的辅助表&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;img_categories: 用于描述图片的分类标签&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px; text-align: center;&quot;&gt;img_tags: 用于描述图片的分类标签&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;img_funnel_*: 都是用于数据统计的表&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;img_online_data: 记录线上发布图片的详情表&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;img_plans: 用于描述图片具体被用到了哪个项目环境下的哪个模块&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;img_scenes: 用于描述模块的具体内容&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;new_user_*: 用于描述新手图信息的表&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;online_configs: 记录所有项目的所有环境最新发布的版本&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;online_file_md5s： 用于描述所有项目的线上资源的相对路径等信息(增量)&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;pic_unlock: 用于图片评分的数据同步&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;plan_groups: 用于描述具体项目的场景&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;published_files: 用于描述所有项目的线上资源的相对路径等信息(全量)&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;state_events: 图片状态变更表&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;unlock_pic_plan_details: 用于配置需要视频解锁的图片&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;user_img_statuses: 用于QA对图片测试的状态记录&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;user_statuses：用户系统的用户状态记录表&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;users: 用户系统的主表&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;users_groups: 用户角色映射表&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="355" width="570" height="1335" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
