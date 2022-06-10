@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T10:38:21.122Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="MZUPuBaXS0dSgXThEzoO" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-10T10:48:48.886Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="SfkNa_zAVq1087k9g8Pg" version="19.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,19 +83,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="anklOojbZPtdQO9B7LjY-32" value="lite_gallery_plan_details" style="swimlane;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="940" y="130" width="210" height="70" as="geometry" />
+          <mxGeometry x="940" y="130" width="210" height="70" as="geometry">
+            <mxRectangle x="940" y="130" width="210" height="23" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="anklOojbZPtdQO9B7LjY-33" value="gallery模块主表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="anklOojbZPtdQO9B7LjY-32" vertex="1">
           <mxGeometry x="30" y="40" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="anklOojbZPtdQO9B7LjY-34" value="lite_daily_plan_details" style="swimlane;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="940" y="210" width="210" height="70" as="geometry" />
+          <mxGeometry x="940" y="210" width="210" height="70" as="geometry">
+            <mxRectangle x="940" y="210" width="190" height="23" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="anklOojbZPtdQO9B7LjY-35" value="daily模块主表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="anklOojbZPtdQO9B7LjY-34" vertex="1">
           <mxGeometry x="35" y="40" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="anklOojbZPtdQO9B7LjY-36" value="banner_configs" style="swimlane;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="940" y="290" width="210" height="70" as="geometry" />
+          <mxGeometry x="940" y="290" width="210" height="70" as="geometry">
+            <mxRectangle x="940" y="290" width="140" height="23" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="anklOojbZPtdQO9B7LjY-37" value="banner模块主表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="anklOojbZPtdQO9B7LjY-36" vertex="1">
           <mxGeometry x="30" y="40" width="120" height="20" as="geometry" />
@@ -125,7 +131,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="anklOojbZPtdQO9B7LjY-47" value="language_configs" style="swimlane;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="940" y="610" width="210" height="70" as="geometry" />
+          <mxGeometry x="940" y="610" width="210" height="70" as="geometry">
+            <mxRectangle x="940" y="610" width="160" height="23" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="anklOojbZPtdQO9B7LjY-48" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AB测模块主表&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="anklOojbZPtdQO9B7LjY-47" vertex="1">
           <mxGeometry x="35" y="40" width="110" height="20" as="geometry" />
